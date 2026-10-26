@@ -1,0 +1,6 @@
+credentials.json
+.venv/
+token.json
+__pycache__/
+*.csv
+.DS_Store
